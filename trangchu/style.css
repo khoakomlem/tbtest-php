@@ -1,0 +1,8 @@
+#style-7{
+	opacity: 0.85;
+}
+
+header{
+	background-image: url("../assets/img/background5.jpg");
+	background-position: top;background-size: cover;background-repeat: no-repeat;height: 110vh;
+}

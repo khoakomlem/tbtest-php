@@ -1,0 +1,11 @@
+HA TEST
+<hr> 
+Xin chào %s,
+
+Gần đây, bạn đã quên mật khẩu tài khoản HA TEST. Để thay đổi mật khẩu, vui lòng xác nhận tài khoản của bạn.
+
+<a href='%s'>Click here</a>
+
+<hr>
+
+<p style='font-size:11px'>Tin nhắn này được gửi tới %s theo yêu cầu của bạn</p>

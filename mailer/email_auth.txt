@@ -1,0 +1,11 @@
+HA TEST
+<hr> 
+Xin chào %s,
+
+Gần đây, bạn đã tạo 1 tài khoản trên HA TEST. Để có thể sử dụng, vui lòng xác minh tài khoản.
+
+<a href='%s'>Click here</a>
+
+<hr>
+
+<p style='font-size:11px'>Tin nhắn này được gửi tới %s để xác minh</p>

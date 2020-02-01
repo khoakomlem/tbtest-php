@@ -1,0 +1,1 @@
+Nhấp <a href = 'http://contest.hastudents.com/HATEST/checkAuth.php?code=%s'>vào đây</a> để xác thực gmail của bạn!
